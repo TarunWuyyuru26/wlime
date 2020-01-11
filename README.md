@@ -1,8 +1,8 @@
 # wlime
  
- Wlime - a package for data preprocessing in R
+ *Wlime - a package for data preprocessing in R
  
- If you want to install this package, implement the following code
+ ***If you want to install this package, implement the following code
  
  install(devtools)
  
